@@ -1,0 +1,2 @@
+public class Store3 {
+}
