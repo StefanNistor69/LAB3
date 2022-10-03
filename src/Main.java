@@ -18,8 +18,8 @@ public class Main {
         PCmodel2 p2 = new PCmodel2();
         PCmodel3 p3 = new PCmodel3();
 
-       ceo.
-         
+
+         coo.getAge();
 
 
 
