@@ -1,11 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8f5985-c5f0-43fd-8779-f33a15aa075a" name="Changes" comment="" />
+    <list default="true" id="9d8f5985-c5f0-43fd-8779-f33a15aa075a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PC Company.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Builder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CEO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/COO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DeliveryDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DesignDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Designer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HumanResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Janitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ManufacturingDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCmodel1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCmodel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PCmodel3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SalesDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Store3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StoreClerk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stores.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FZHO51mQ5eWz2p0nklNkDera3x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,6 +61,52 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PC Company" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PC Company" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PC Company" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PC Company" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PC Company" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main (5)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
